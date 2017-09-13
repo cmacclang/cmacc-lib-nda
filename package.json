@@ -1,6 +1,6 @@
 {
   "name": "cmacc-lib-nda",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "NDA Prose Object",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-lib-nda.git",
