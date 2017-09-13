@@ -1,0 +1,9 @@
+// Parameters
+
+$ scope = [./AccessOptions.cmacc]
+
+// Content
+
+Access
+
+{{scope.limit}} {{scope.need_To_Know}} and {{scope.signed}} with {{scope.as_Restrictive}}.

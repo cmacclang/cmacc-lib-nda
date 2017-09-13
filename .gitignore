@@ -1,0 +1,6 @@
+yarn.lock
+*.html
+*.log
+*.md
+*.pdf
+/node_modules
