@@ -1,6 +1,6 @@
 // Parameters
 
-$ except_Item = "except_Item"
+$ except_List = "except_List"
 
 $ xnum = "Xnum"
 
@@ -18,4 +18,4 @@ $ confidential_Information = [./ConfidentialInformation.cmacc]
 
 The Receiving Party will not have any obligations under this {{#definition agreement}} with respect to a specific portion of the {{#definition confidential_Information}} if the Receiving Party can demonstrate with competent evidence that such portion of {{#definition confidential_Information}}:
 
-{{except_Item}}
+{{except_List}}

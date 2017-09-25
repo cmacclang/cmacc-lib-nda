@@ -1,15 +1,15 @@
 // Parameters
 
-$ except = [./ExceptOptions.cmacc]
+$ except_Options = [./ExceptOptions.cmacc]
 
 // Content
 
-1.{{except.was_Public}};
+1. {{except_Options.was_Public}};
 
-2.{{except.becomes_Public}};
+2. {{except_Options.becomes_Public}};
 
-3.{{except.had}};
+3. {{except_Options.had}};
 
-4.{{except.finds}} or
+4. {{except_Options.finds}} or
 
-5.{{except.makes}}.
+5. {{except_Options.makes}}.

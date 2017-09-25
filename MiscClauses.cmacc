@@ -13,6 +13,7 @@ $ assign.xnum = xnum_Assign
 
 $ xnum_Entire = "{{xnum}}.3"
 $ entire = [./Entire.cmacc]
+$ entire.xnum = xnum_Entire
 $ entire.option_Selected = entire.base
 
 $ xnum_Notice = "{{xnum}}.4"

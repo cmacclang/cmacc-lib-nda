@@ -2,7 +2,7 @@
 
 $ xnum = "Xnum"
 
-$ return1 = [./ReturnDestruct.cmacc]
+$ return_Destruct = [./ReturnDestruct.cmacc]
 
 $ leak = [./Leak.cmacc]
 
@@ -14,7 +14,7 @@ $ injunction = [./Injunction.cmacc]
 
  {{xnum}}.1. Return or Destruction
  
- {{return1}}
+ {{return_Destruct}}
 
  {{xnum}}.2. Notice of Leak
  
