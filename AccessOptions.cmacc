@@ -1,3 +1,13 @@
+---
+Options:
+  - approved_Form
+  - as_Restrictive
+  - individual
+  - limit
+  - need_To_Know
+  - signed
+---
+
 // List of options
 
 $ approved_Form = "in a form approved in advance by the Disclosing Party"
